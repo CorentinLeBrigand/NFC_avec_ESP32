@@ -7,9 +7,9 @@
 ///////////////////////////////////////////////////////////////////*/
 
 Matériels
-  *ESP 32
-  *MFRC522
-  *Badge NFC
+  * ESP 32
+  * MFRC522
+  * Badge NFC
   
 Adressage
 *ESP32    <--->     MFRC522
