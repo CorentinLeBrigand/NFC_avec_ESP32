@@ -69,7 +69,7 @@ void loop()
       /*envoie de UID sur la base de donnée*/
       Firebase.setString(firebaseData,"test_Nfn", UID);
 
-      delay (2000);                                        //attente avant de relire
+      delay (TEMPS_ATTENTE);                                        //attente avant de relire
     }
   }
 }
